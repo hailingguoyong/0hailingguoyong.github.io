@@ -78,6 +78,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:hailingguoyong/hailingguoyong.github.io.git
+  repo: https://github.com/hailingguoyong/hailingguoyong.github.io
   branch: master
 
